@@ -1,0 +1,48 @@
+{
+  "feature_linkedin_on_top": false,
+  "last_updated": "",
+  "items": [
+    {
+      "title": "Tech news & updates",
+      "description": "NVIDIA, AI & automation — updated every 24h",
+      "url": "https://blogs.nvidia.com/",
+      "image": "",
+      "source": "tech_news"
+    },
+    {
+      "title": "LinkedIn",
+      "description": "Senzova Technologies company updates",
+      "url": "https://www.linkedin.com/company/senzova-technologies/",
+      "image": "",
+      "source": "linkedin"
+    },
+    {
+      "title": "Industry insights",
+      "description": "AI and intelligent automation",
+      "url": "#",
+      "image": "",
+      "source": "tech"
+    },
+    {
+      "title": "Research & innovation",
+      "description": "Deep tech and edge AI",
+      "url": "#",
+      "image": "",
+      "source": "tech"
+    },
+    {
+      "title": "Partner updates",
+      "description": "Collaborations and news",
+      "url": "#",
+      "image": "",
+      "source": "linkedin"
+    },
+    {
+      "title": "More soon",
+      "description": "Feed updated by automated agent",
+      "url": "#",
+      "image": "",
+      "source": "placeholder"
+    }
+  ]
+}
